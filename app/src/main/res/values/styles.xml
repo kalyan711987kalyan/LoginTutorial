@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="MyMaterialTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+
+    </style>
+</resources>
+
